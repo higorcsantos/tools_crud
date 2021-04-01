@@ -26,4 +26,9 @@ $yarn dev
         <th>Método</th>
         <th>Resultado</th>
     </tr>
+    <tr>
+        <td>/users</td>
+        <td>post</td>
+        <td>Serve para cadastrar um novo usuário</td>
+    </tr>
 </table>
