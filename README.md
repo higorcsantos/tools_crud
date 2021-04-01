@@ -2,6 +2,7 @@
 
 <h2>Sobre a aplicação: </h2>
 <p>A aplicação tem como o intuito proporcionar ao usuário adicionar ferramentas para o seu uso, cada usuário possui sua identificação para o login, também podem ser criadas ferramentas, buscar ferramentas e deletar ferramentas. Foi utilizado o git para versionar a aplicação e ela foi escrita em typescript.</p>
+<p><strong>Versão da Aplicação: 1.0.0</strong></p>
 <p><strong>Tecnologias: </strong></p>
 <ul>
     <li>Typescript</li>
