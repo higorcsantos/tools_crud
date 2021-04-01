@@ -1,6 +1,6 @@
 <h1 align="center">BossaBox Challenge VUTTR</h1>
 
-<p><strong>Tecnologias: </strong></p>
+<h2><strong>Tecnologias: </strong></h2>
 <p>Typescript</p>
 <p>Node JS</p>
 <p>Express</p>
@@ -17,7 +17,7 @@ $yarn typeorm migration:run
 $yarn dev
 ````
 
-<h3>Recursos da Aplicação</h3>
+<h2>Recursos da Aplicação</h2>
 <p>A aplicação roda por padrão em http://localhost:3000, caso queira alterar o caminho é só entrar na pasta src, no arquivo server.ts e alterar a constante port para o valor desjado</p>
 <p>Para acessaar as rotas de tools o usuário necessita estar autenticado</p>
 <h2>Rotas da Aplicação</h2>
